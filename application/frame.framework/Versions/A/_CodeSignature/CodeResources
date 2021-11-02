@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zlnAN+9KF7P3TSdHPjWyMMapnkdwaWo3Fus/whr76rA=
+			sMECjyZ8vJm/jtebH9qI4j3II/kRxrub1rEVSk5VC2E=
 			</data>
 		</dict>
 		<key>Modules/frame.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zlnAN+9KF7P3TSdHPjWyMMapnkdwaWo3Fus/whr76rA=
+			sMECjyZ8vJm/jtebH9qI4j3II/kRxrub1rEVSk5VC2E=
 			</data>
 		</dict>
 		<key>Modules/frame.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BGbHIPLg6CnVicYx9QciHD7O/T01xt0MnaY4d1ZpqTc=
+			jGXLU3dCtOzsNeWpGo9/tYMCASxyq560i2xJ6g5O0ss=
 			</data>
 		</dict>
 		<key>Modules/frame.swiftmodule/x86_64.swiftdoc</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BGbHIPLg6CnVicYx9QciHD7O/T01xt0MnaY4d1ZpqTc=
+			jGXLU3dCtOzsNeWpGo9/tYMCASxyq560i2xJ6g5O0ss=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

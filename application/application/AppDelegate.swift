@@ -17,6 +17,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Insert code here to initialize your application
         Test.one()
         Test.two()
+        Test.three()
+        
         
     }
 
